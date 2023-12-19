@@ -14,6 +14,6 @@ Explore the codebase and contribute: We welcome your ideas and enhancements!
 Enhance your productivity with MemoVista.
 Elevate your note-taking experience with MemoVista – because every thought deserves a place to flourish. 📝✨
 
-Live Demo 
+Live Demo : https://mehakmantri.github.io/MemoVista/
 
 Happy noting! 🚀
